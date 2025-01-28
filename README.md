@@ -15,3 +15,7 @@
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoobwood&hide_progress=true)
+
+
